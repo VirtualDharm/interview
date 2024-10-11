@@ -1,0 +1,18 @@
+create db user first name last name phone no email address & address which freigen key address city country street no 
+
+create order management table (orderid, product id, user id, irdered at)
+
+payment table (payment id, orderid, payment status)
+
+product table with A,B 
+
+users who's payent failed on 10th october lives in delhi for product A
+
+
+
+start server
+connection to db
+insert the data
+then user query 
+
+mai to :vsingh1918@gmail.com
